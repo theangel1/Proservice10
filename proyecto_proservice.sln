@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatchingService", "FileWatchingService\FileWatchingService.csproj", "{A13DA34E-3D24-4D4F-8495-ADD4BF835B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F17ED22E-4BB2-4C05-A7B6-67F4486D50F2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup-ProService10", "Setup-ProService10\Setup-ProService10.vdproj", "{83C6BF14-5A47-464C-BC6A-F728D827934A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13DA34E-3D24-4D4F-8495-ADD4BF835B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13DA34E-3D24-4D4F-8495-ADD4BF835B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13DA34E-3D24-4D4F-8495-ADD4BF835B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13DA34E-3D24-4D4F-8495-ADD4BF835B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17ED22E-4BB2-4C05-A7B6-67F4486D50F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17ED22E-4BB2-4C05-A7B6-67F4486D50F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17ED22E-4BB2-4C05-A7B6-67F4486D50F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17ED22E-4BB2-4C05-A7B6-67F4486D50F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C6BF14-5A47-464C-BC6A-F728D827934A}.Debug|Any CPU.ActiveCfg = Debug
+		{83C6BF14-5A47-464C-BC6A-F728D827934A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6402F722-E188-4212-B05B-30EDEEECD87C}
+	EndGlobalSection
+EndGlobal
